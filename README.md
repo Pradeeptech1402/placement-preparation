@@ -4,13 +4,13 @@ This repository is my personal tracker for placement prepration
 The goal is to **build problem-solving skills** and **and gain experiance by doing projects**
 ---
 
-# ✅Inputs/outputs
+#### ✅Inputs/outputs
 
-# ✅conditions and loops
+#### ✅conditions and loops
 
-# ✅switch statement +nested case
+#### ✅switch statement +nested case
 
-# ✅Methods in java
+#### ✅Methods in java
 
-# ✅Practice methods
+#### ✅Practice methods
 
