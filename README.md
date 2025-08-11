@@ -1,7 +1,7 @@
 # 🚀 Placement Preparation
 
 This repository is my personal tracker for placement prepration
-The goal is to **build problem-solving skills** and **and gain experiance by doing projects** 
+The goal is to **build problem-solving skills** and **and gain experiance by doing projects**
 ---
 
 # ✅Inputs/outputs
@@ -10,5 +10,7 @@ The goal is to **build problem-solving skills** and **and gain experiance by doi
 
 # ✅switch statement +nested case
 
-# ✅functions in java
+# ✅Methods in java
+
+# ✅Practice methods
 
